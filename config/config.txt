@@ -1,0 +1,5 @@
+PlayQB=0
+PlayEvents=1
+JoinQB=0
+JoinEvents=0
+PWPriorities=koth,kiora,jace_uos,ob_nixilis,nahiri,nissa,liliana_tlh,gideon_bf,gideon_aoz,arlinn,ajani,garruk,sorin,jace,liliana,dovin,sarkhan,chandra,chandra_tod,nissa_vf,saheeli
